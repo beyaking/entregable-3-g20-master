@@ -6,6 +6,7 @@
     box-shadow: 14px 10px 150px -26px rgba(51,15,99,1);
    
     padding-bottom: 20px;
+    
 
    
 }
@@ -62,6 +63,7 @@
     padding: 15px;
     background: linear-gradient(180deg,hsla(0,0%,100%,.12),hsla(0,0%,100%,0));
     color: white;
+    backdrop-filter: blur(2px);
     
 }
 

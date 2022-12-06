@@ -16,7 +16,9 @@
     display: flex;
     align-items: center;
     justify-content: start;
-    gap:50px
+    gap:50px;
+    backdrop-filter: blur(2px);
+    
 }
 
 .location__label {
