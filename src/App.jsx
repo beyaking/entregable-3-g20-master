@@ -74,7 +74,7 @@ function App() {
 <footer className="footer__app">
   <ul className="footer__list">
     <li>
-    <p>Author: Javier Mejia - Jeferson Vergara</p>
+    <p>Authors: Javier Mejia - Jeferson Vergara</p>
     </li>
     <li>
     <p>&copy; Copyright 2022
