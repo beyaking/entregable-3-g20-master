@@ -44,6 +44,7 @@ function App() {
 
   return (
     <div className="App">
+      <div className="container"> 
       <div className="img-container">
       <img className="img-logo" src="tt2.png" alt="" />
       <img className="img-logo2" src="tt.png" alt="" />
@@ -69,7 +70,7 @@ function App() {
           </div>
         </>
       )}
-
+</div>
 <footer className="footer__app">
   <ul className="footer__list">
     <li>

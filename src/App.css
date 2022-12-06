@@ -8,7 +8,7 @@
     margin-right: auto;
 }
 
-.App  {
+.container  {
         max-width: 1400px;	
         margin: 0 auto;
         @media screen and (max-width: 940px) {padding: 0 20px; }
@@ -93,7 +93,7 @@
     margin-top: 30px;
     padding: 20px;
     width: 100%;
-    background-color: rgba(41, 41, 41, 0.275);
+    background-color: rgba(3,3,40,.8);
     font-weight: 200;
     margin-left: none;
     margin-right: none;
