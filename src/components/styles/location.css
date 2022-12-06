@@ -1,0 +1,33 @@
+.location{
+    
+    
+    width: 100%;
+    background-color: rgba(41, 41, 41, 0.275);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 0 8px 8px 0;
+    padding: 5px 0 5px 8px;
+   
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap:50px
+}
+
+.location__label {
+    
+    font-size: 0.8rem;
+    font-weight: 300;
+    line-height: 20px;
+    color: hsla(0,0%,100%,.75);
+    white-space: pre-wrap;
+    
+    text-transform: uppercase;
+    margin-bottom: 0.05em;
+}
+
